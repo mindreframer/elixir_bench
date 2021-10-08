@@ -6,6 +6,8 @@ defmodule ElixirBench.MixProject do
       app: :elixir_bench,
       version: "0.1.0",
       elixir: "~> 1.12",
+      test_paths: ["test", "lib"],
+      test_pattern: "*_test.exs",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
@@ -22,8 +24,23 @@ defmodule ElixirBench.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      # {:dep_from_hexpm, "~> 0.3.0"},
-      # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
+      ## xml parsing
+      {:sweet_xml, "~> 0.7.1"},
+      {:sax_map, "~> 1.0"},
+      {:floki, "~> 0.5"},
+      {:fast_xml, "~> 1.1.47"},
+      {:xml_json, "~> 0.4"},
+
+      ## json path
+      {:warpath, "~> 0.6.2"},
+      {:elixpath, "~> 0.1"},
+      {:exjsonpath, "~> 0.1"},
+      {:pathex, "~> 1.2.0"},
+      {:telepath, "~> 0.1.0"},
+
+      ## benchmarks
+      {:benchee, "~> 1.0", only: [:dev, :test]},
+      {:mix_test_interactive, "~> 1.0", only: :dev, runtime: false}
     ]
   end
 end

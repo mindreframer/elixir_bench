@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<search:search-result xmlns:seller="http://services.mobile.de/schema/seller" xmlns:ad="http://services.mobile.de/schema/ad" xmlns:search="http://services.mobile.de/schema/search" xmlns:financing="http://services.mobile.de/schema/common/financing-1.0" xmlns:resource="http://services.mobile.de/schema/resource" xmlns:error="http://services.mobile.de/schema/common/error-1.0">
+    <search:total>5</search:total>
+    <search:page-size>100</search:page-size>
+    <search:current-page>1</search:current-page>
+    <search:max-pages>1</search:max-pages>
+    <search:ads>
+        <ad:ad key="997701" url="https://services.mobile.de/search-api/ad/997701">
+            <ad:creation-date value="2019-02-11T17:10:34+01:00"/>
+            <ad:modification-date value="2021-01-28T05:01:21+01:00"/>
+            <ad:detail-page url="https://suchen.mobile.de/auto-inserat/honda-civic-super-karre-deluxe-querenhorst/997701.html?source=api"/>
+            <ad:vehicle>
+                <ad:class key="Car" url="https://services.mobile.de/refdata/classes/Car">
+                    <resource:local-description xml-lang="de">Pkw</resource:local-description>
+                </ad:class>
+                <ad:category key="OffRoad" url="https://services.mobile.de/refdata/classes/Car/categories/OffRoad">
+                    <resource:local-description xml-lang="de">SUV/Geländewagen/Pickup</resource:local-description>
+                </ad:category>
+                <ad:make key="HONDA" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA">
+                    <resource:local-description xml-lang="de">HONDA</resource:local-description>
+                </ad:make>
+                <ad:model key="Civic" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA/models/Civic">
+                    <resource:local-description xml-lang="de">Civic</resource:local-description>
+                </ad:model>
+                <ad:model-description value="Super Karre Deluxe"/>
+                <ad:damage-and-unrepaired value="false"/>
+                <ad:accident-damaged value="false"/>
+                <ad:roadworthy value="true"/>
+                <ad:features url="https://services.mobile.de/refdata/classes/Car/features">
+                    <ad:feature key="METALLIC" url="https://services.mobile.de/refdata/classes/Car/features/METALLIC">
+                        <resource:local-description xml-lang="de">Metallic</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TRAILER_COUPLING" url="https://services.mobile.de/refdata/classes/Car/features/TRAILER_COUPLING">
+                        <resource:local-description xml-lang="de">Anhängerkupplung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ALLOY_WHEELS" url="https://services.mobile.de/refdata/classes/Car/features/ALLOY_WHEELS">
+                        <resource:local-description xml-lang="de">Leichtmetallfelgen</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CENTRAL_LOCKING" url="https://services.mobile.de/refdata/classes/Car/features/CENTRAL_LOCKING">
+                        <resource:local-description xml-lang="de">Zentralverriegelung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_WINDOWS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_WINDOWS">
+                        <resource:local-description xml-lang="de">Elektr. Fensterheber</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="IMMOBILIZER" url="https://services.mobile.de/refdata/classes/Car/features/IMMOBILIZER">
+                        <resource:local-description xml-lang="de">Elektr. Wegfahrsperre</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="POWER_ASSISTED_STEERING" url="https://services.mobile.de/refdata/classes/Car/features/POWER_ASSISTED_STEERING">
+                        <resource:local-description xml-lang="de">Servolenkung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ABS" url="https://services.mobile.de/refdata/classes/Car/features/ABS">
+                        <resource:local-description xml-lang="de">ABS</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ESP" url="https://services.mobile.de/refdata/classes/Car/features/ESP">
+                        <resource:local-description xml-lang="de">ESP</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="NAVIGATION_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/NAVIGATION_SYSTEM">
+                        <resource:local-description xml-lang="de">Navigationssystem</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="FULL_SERVICE_HISTORY" url="https://services.mobile.de/refdata/classes/Car/features/FULL_SERVICE_HISTORY">
+                        <resource:local-description xml-lang="de">Scheckheftgepflegt</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/classes/Car/features/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_HEATED_SEATS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_HEATED_SEATS">
+                        <resource:local-description xml-lang="de">Sitzheizung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PARTICULATE_FILTER_DIESEL" url="https://services.mobile.de/refdata/classes/Car/features/PARTICULATE_FILTER_DIESEL">
+                        <resource:local-description xml-lang="de">Partikelfilter</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HU_AU_NEU" url="https://services.mobile.de/refdata/classes/Car/features/HU_AU_NEU">
+                        <resource:local-description xml-lang="de">HU neu</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="WARRANTY" url="https://services.mobile.de/refdata/classes/Car/features/WARRANTY">
+                        <resource:local-description xml-lang="de">Garantie</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="AUTOMATIC_RAIN_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/AUTOMATIC_RAIN_SENSOR">
+                        <resource:local-description xml-lang="de">Regensensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="SPORT_SEATS" url="https://services.mobile.de/refdata/classes/Car/features/SPORT_SEATS">
+                        <resource:local-description xml-lang="de">Sportsitze</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_EXTERIOR_MIRRORS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_EXTERIOR_MIRRORS">
+                        <resource:local-description xml-lang="de">Elektr. Seitenspiegel</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PERFORMANCE_HANDLING_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/PERFORMANCE_HANDLING_SYSTEM">
+                        <resource:local-description xml-lang="de">Sportfahrwerk</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="SPORT_PACKAGE" url="https://services.mobile.de/refdata/classes/Car/features/SPORT_PACKAGE">
+                        <resource:local-description xml-lang="de">Sportpaket</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="BLUETOOTH" url="https://services.mobile.de/refdata/classes/Car/features/BLUETOOTH">
+                        <resource:local-description xml-lang="de">Bluetooth</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ON_BOARD_COMPUTER" url="https://services.mobile.de/refdata/classes/Car/features/ON_BOARD_COMPUTER">
+                        <resource:local-description xml-lang="de">Bordcomputer</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CD_PLAYER" url="https://services.mobile.de/refdata/classes/Car/features/CD_PLAYER">
+                        <resource:local-description xml-lang="de">CD-Spieler</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="MULTIFUNCTIONAL_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/MULTIFUNCTIONAL_WHEEL">
+                        <resource:local-description xml-lang="de">Multifunktionslenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TUNER" url="https://services.mobile.de/refdata/classes/Car/features/TUNER">
+                        <resource:local-description xml-lang="de">Tuner/Radio</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ISOFIX" url="https://services.mobile.de/refdata/classes/Car/features/ISOFIX">
+                        <resource:local-description xml-lang="de">Isofix</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LIGHT_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/LIGHT_SENSOR">
+                        <resource:local-description xml-lang="de">Lichtsensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="DAYTIME_RUNNING_LIGHTS" url="https://services.mobile.de/refdata/classes/Car/features/DAYTIME_RUNNING_LIGHTS">
+                        <resource:local-description xml-lang="de">Tagfahrlicht</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TRACTION_CONTROL_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/TRACTION_CONTROL_SYSTEM">
+                        <resource:local-description xml-lang="de">Traktionskontrolle</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="START_STOP_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/START_STOP_SYSTEM">
+                        <resource:local-description xml-lang="de">Start/Stopp-Automatik</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ROOF_RAILS" url="https://services.mobile.de/refdata/classes/Car/features/ROOF_RAILS">
+                        <resource:local-description xml-lang="de">Dachreling</resource:local-description>
+                    </ad:feature>
+                </ad:features>
+                <ad:specifics>
+                    <ad:exterior-color key="GREEN" url="https://services.mobile.de/refdata/colors/GREEN">
+                        <resource:local-description xml-lang="de">Grün</resource:local-description>
+                        <ad:metalic value="true"/>
+                        <ad:manufacturer-color-name value="Grün (Camouflagegruen)"/>
+                    </ad:exterior-color>
+                    <ad:mileage value="6724"/>
+                    <ad:first-registration value="2017-02"/>
+                    <ad:emission-class key="EURO6" url="https://services.mobile.de/refdata/emissionclasses/EURO6">
+                        <resource:local-description xml-lang="de">Euro6</resource:local-description>
+                    </ad:emission-class>
+                    <ad:emission-fuel-consumption envkv-compliant="false" energy-efficiency-class="A" co2-emission="117.00" inner="5.10" outer="4.10" combined="4.50" unit="LITER_PER_100_KM"/>
+                    <ad:fuel key="DIESEL" url="https://services.mobile.de/refdata/fuels/DIESEL">
+                        <resource:local-description xml-lang="de">Diesel</resource:local-description>
+                    </ad:fuel>
+                    <ad:power value="110"/>
+                    <ad:climatisation key="AUTOMATIC_CLIMATISATION" url="https://services.mobile.de/refdata/climatisations/AUTOMATIC_CLIMATISATION">
+                        <resource:local-description xml-lang="de">Klimaautomatik</resource:local-description>
+                    </ad:climatisation>
+                    <ad:cubic-capacity value="1968"/>
+                    <ad:condition key="USED" url="https://services.mobile.de/refdata/conditions/USED">
+                        <resource:local-description xml-lang="de">Gebrauchtfahrzeug</resource:local-description>
+                    </ad:condition>
+                    <ad:interior-color key="BLACK" url="https://services.mobile.de/refdata/interiorColors/BLACK">
+                        <resource:local-description xml-lang="de">Schwarz</resource:local-description>
+                    </ad:interior-color>
+                    <ad:interior-type key="PARTIAL_LEATHER" url="https://services.mobile.de/refdata/interiorTypes/PARTIAL_LEATHER">
+                        <resource:local-description xml-lang="de">Teilleder</resource:local-description>
+                    </ad:interior-type>
+                    <ad:airbag key="FRONT_AIRBAGS" url="https://services.mobile.de/refdata/airbags/FRONT_AIRBAGS">
+                        <resource:local-description xml-lang="de">Front-Airbags</resource:local-description>
+                    </ad:airbag>
+                    <ad:number-of-previous-owners>1</ad:number-of-previous-owners>
+                    <ad:speed-control key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/speedcontrols/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:speed-control>
+                    <ad:radio>
+                        <ad:radio-type key="TUNER" url="https://services.mobile.de/refdata/radiotypes/TUNER">
+                            <resource:local-description xml-lang="de">Tuner/Radio</resource:local-description>
+                        </ad:radio-type>
+                    </ad:radio>
+                    <ad:daytime-running-lamps key="DAYTIME_RUNNING_LIGHTS" url="https://services.mobile.de/refdata/daytimerunninglamps/DAYTIME_RUNNING_LIGHTS">
+                        <resource:local-description xml-lang="de">Tagfahrlicht</resource:local-description>
+                    </ad:daytime-running-lamps>
+                    <ad:trailer-coupling-type key="TRAILER_COUPLING_FIX" url="https://services.mobile.de/refdata/trailercouplingtypes/TRAILER_COUPLING_FIX">
+                        <resource:local-description xml-lang="de">Anhängerkupplung fest</resource:local-description>
+                    </ad:trailer-coupling-type>
+                </ad:specifics>
+            </ad:vehicle>
+            <ad:description></ad:description>
+            <ad:price currency="EUR" type="FIXED">
+                <ad:consumer-price-amount value="32950.01"/>
+                <ad:vatable value="true"/>
+                <ad:vat-rate value="0.1900"/>
+            </ad:price>
+            <seller:seller key="1009" url="https://services.mobile.de/search-api/seller/1009">
+                <seller:type value="DEALER" commercial="true"/>
+                <seller:address>
+                    <seller:zipcode value="38368"/>
+                    <seller:city value="Querenhorst"/>
+                    <seller:country-code value="DE"/>
+                </seller:address>
+                <seller:coordinates>
+                    <seller:latitude>52.359758</seller:latitude>
+                    <seller:longitude>10.998387</seller:longitude>
+                </seller:coordinates>
+            </seller:seller>
+        </ad:ad>
+        <ad:ad key="1031802" url="https://services.mobile.de/search-api/ad/1031802">
+            <ad:creation-date value="2020-09-16T09:23:15+02:00"/>
+            <ad:modification-date value="2020-09-16T11:05:50+02:00"/>
+            <ad:detail-page url="https://suchen.mobile.de/auto-inserat/honda-civic-lim-4-hybrid-comfort-rittersheim/1031802.html?source=api"/>
+            <ad:vehicle>
+                <ad:class key="Car" url="https://services.mobile.de/refdata/classes/Car">
+                    <resource:local-description xml-lang="de">Pkw</resource:local-description>
+                </ad:class>
+                <ad:category key="Limousine" url="https://services.mobile.de/refdata/classes/Car/categories/Limousine">
+                    <resource:local-description xml-lang="de">Limousine</resource:local-description>
+                </ad:category>
+                <ad:make key="HONDA" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA">
+                    <resource:local-description xml-lang="de">HONDA</resource:local-description>
+                </ad:make>
+                <ad:model key="Civic" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA/models/Civic">
+                    <resource:local-description xml-lang="de">Civic</resource:local-description>
+                </ad:model>
+                <ad:model-description value="Civic Lim.4 Hybrid Comfort"/>
+                <ad:damage-and-unrepaired value="false"/>
+                <ad:roadworthy value="true"/>
+                <ad:features url="https://services.mobile.de/refdata/classes/Car/features">
+                    <ad:feature key="ALLOY_WHEELS" url="https://services.mobile.de/refdata/classes/Car/features/ALLOY_WHEELS">
+                        <resource:local-description xml-lang="de">Leichtmetallfelgen</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CENTRAL_LOCKING" url="https://services.mobile.de/refdata/classes/Car/features/CENTRAL_LOCKING">
+                        <resource:local-description xml-lang="de">Zentralverriegelung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_WINDOWS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_WINDOWS">
+                        <resource:local-description xml-lang="de">Elektr. Fensterheber</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="POWER_ASSISTED_STEERING" url="https://services.mobile.de/refdata/classes/Car/features/POWER_ASSISTED_STEERING">
+                        <resource:local-description xml-lang="de">Servolenkung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ABS" url="https://services.mobile.de/refdata/classes/Car/features/ABS">
+                        <resource:local-description xml-lang="de">ABS</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ESP" url="https://services.mobile.de/refdata/classes/Car/features/ESP">
+                        <resource:local-description xml-lang="de">ESP</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HYBRID_PLUGIN" url="https://services.mobile.de/refdata/classes/Car/features/HYBRID_PLUGIN">
+                        <resource:local-description xml-lang="de">Plug-in-Hybrid</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_EXTERIOR_MIRRORS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_EXTERIOR_MIRRORS">
+                        <resource:local-description xml-lang="de">Elektr. Seitenspiegel</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CD_PLAYER" url="https://services.mobile.de/refdata/classes/Car/features/CD_PLAYER">
+                        <resource:local-description xml-lang="de">CD-Spieler</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="MULTIFUNCTIONAL_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/MULTIFUNCTIONAL_WHEEL">
+                        <resource:local-description xml-lang="de">Multifunktionslenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ISOFIX" url="https://services.mobile.de/refdata/classes/Car/features/ISOFIX">
+                        <resource:local-description xml-lang="de">Isofix</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ALARM_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/ALARM_SYSTEM">
+                        <resource:local-description xml-lang="de">Alarmanlage</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LEATHER_STEERING_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/LEATHER_STEERING_WHEEL">
+                        <resource:local-description xml-lang="de">Lederlenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PASSENGER_SEAT_ISOFIX_POINT" url="https://services.mobile.de/refdata/classes/Car/features/PASSENGER_SEAT_ISOFIX_POINT">
+                        <resource:local-description xml-lang="de">Isofix Beifahrersitz</resource:local-description>
+                    </ad:feature>
+                </ad:features>
+                <ad:specifics>
+                    <ad:exterior-color key="BLUE" url="https://services.mobile.de/refdata/colors/BLUE">
+                        <resource:local-description xml-lang="de">Blau</resource:local-description>
+                    </ad:exterior-color>
+                    <ad:mileage value="99999"/>
+                    <ad:door-count key="FOUR_OR_FIVE" url="https://services.mobile.de/refdata/doorcounts/FOUR_OR_FIVE">
+                        <resource:local-description xml-lang="de">4/5</resource:local-description>
+                    </ad:door-count>
+                    <ad:first-registration value="2009-10"/>
+                    <ad:emission-class key="EURO4" url="https://services.mobile.de/refdata/emissionclasses/EURO4">
+                        <resource:local-description xml-lang="de">Euro4</resource:local-description>
+                    </ad:emission-class>
+                    <ad:emission-fuel-consumption envkv-compliant="false" energy-efficiency-class="A+" co2-emission="109.00" inner="5.20" outer="4.30" combined="4.60" unit="LITER_PER_100_KM"/>
+                    <ad:emission-sticker key="EMISSIONSSTICKER_GREEN" url="https://services.mobile.de/refdata/emissionstickers/EMISSIONSSTICKER_GREEN">
+                        <resource:local-description xml-lang="de">4 (Grün)</resource:local-description>
+                    </ad:emission-sticker>
+                    <ad:fuel key="PETROL" url="https://services.mobile.de/refdata/fuels/PETROL">
+                        <resource:local-description xml-lang="de">Benzin</resource:local-description>
+                    </ad:fuel>
+                    <ad:power value="70"/>
+                    <ad:gearbox key="AUTOMATIC_GEAR" url="https://services.mobile.de/refdata/gearboxes/AUTOMATIC_GEAR">
+                        <resource:local-description xml-lang="de">Automatik</resource:local-description>
+                    </ad:gearbox>
+                    <ad:climatisation key="AUTOMATIC_CLIMATISATION" url="https://services.mobile.de/refdata/climatisations/AUTOMATIC_CLIMATISATION">
+                        <resource:local-description xml-lang="de">Klimaautomatik</resource:local-description>
+                    </ad:climatisation>
+                    <ad:num-seats value="5"/>
+                    <ad:construction-year value="2009"/>
+                    <ad:cubic-capacity value="1339"/>
+                    <ad:condition key="USED" url="https://services.mobile.de/refdata/conditions/USED">
+                        <resource:local-description xml-lang="de">Gebrauchtfahrzeug</resource:local-description>
+                    </ad:condition>
+                    <ad:airbag key="FRONT_AND_SIDE_AND_MORE_AIRBAGS" url="https://services.mobile.de/refdata/airbags/FRONT_AND_SIDE_AND_MORE_AIRBAGS">
+                        <resource:local-description xml-lang="de">Front-, Seiten- und weitere Airbags</resource:local-description>
+                    </ad:airbag>
+                </ad:specifics>
+            </ad:vehicle>
+            <ad:description></ad:description>
+            <ad:price currency="EUR" type="FIXED">
+                <ad:consumer-price-amount value="100001.00"/>
+                <ad:vatable value="false"/>
+            </ad:price>
+            <seller:seller key="521" url="https://services.mobile.de/search-api/seller/521">
+                <seller:type value="DEALER" commercial="true"/>
+                <seller:address>
+                    <seller:zipcode value="67294"/>
+                    <seller:city value="Rittersheim"/>
+                    <seller:country-code value="DE"/>
+                </seller:address>
+                <seller:coordinates>
+                    <seller:latitude>49.732059</seller:latitude>
+                    <seller:longitude>7.938037</seller:longitude>
+                </seller:coordinates>
+            </seller:seller>
+        </ad:ad>
+        <ad:ad key="1033945" url="https://services.mobile.de/search-api/ad/1033945">
+            <ad:creation-date value="2020-11-11T09:45:51+01:00"/>
+            <ad:modification-date value="2020-11-12T10:29:24+01:00"/>
+            <ad:detail-page url="https://suchen.mobile.de/auto-inserat/honda-civic-tourer-elegance-rittersheim/1033945.html?source=api"/>
+            <ad:vehicle>
+                <ad:class key="Car" url="https://services.mobile.de/refdata/classes/Car">
+                    <resource:local-description xml-lang="de">Pkw</resource:local-description>
+                </ad:class>
+                <ad:category key="EstateCar" url="https://services.mobile.de/refdata/classes/Car/categories/EstateCar">
+                    <resource:local-description xml-lang="de">Kombi</resource:local-description>
+                </ad:category>
+                <ad:make key="HONDA" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA">
+                    <resource:local-description xml-lang="de">HONDA</resource:local-description>
+                </ad:make>
+                <ad:model key="Civic" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA/models/Civic">
+                    <resource:local-description xml-lang="de">Civic</resource:local-description>
+                </ad:model>
+                <ad:model-description value="Civic Tourer Elegance"/>
+                <ad:damage-and-unrepaired value="false"/>
+                <ad:accident-damaged value="false"/>
+                <ad:roadworthy value="true"/>
+                <ad:features url="https://services.mobile.de/refdata/classes/Car/features">
+                    <ad:feature key="ALLOY_WHEELS" url="https://services.mobile.de/refdata/classes/Car/features/ALLOY_WHEELS">
+                        <resource:local-description xml-lang="de">Leichtmetallfelgen</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CENTRAL_LOCKING" url="https://services.mobile.de/refdata/classes/Car/features/CENTRAL_LOCKING">
+                        <resource:local-description xml-lang="de">Zentralverriegelung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_WINDOWS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_WINDOWS">
+                        <resource:local-description xml-lang="de">Elektr. Fensterheber</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="POWER_ASSISTED_STEERING" url="https://services.mobile.de/refdata/classes/Car/features/POWER_ASSISTED_STEERING">
+                        <resource:local-description xml-lang="de">Servolenkung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ABS" url="https://services.mobile.de/refdata/classes/Car/features/ABS">
+                        <resource:local-description xml-lang="de">ABS</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ESP" url="https://services.mobile.de/refdata/classes/Car/features/ESP">
+                        <resource:local-description xml-lang="de">ESP</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/classes/Car/features/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_HEATED_SEATS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_HEATED_SEATS">
+                        <resource:local-description xml-lang="de">Sitzheizung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="AUTOMATIC_RAIN_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/AUTOMATIC_RAIN_SENSOR">
+                        <resource:local-description xml-lang="de">Regensensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_EXTERIOR_MIRRORS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_EXTERIOR_MIRRORS">
+                        <resource:local-description xml-lang="de">Elektr. Seitenspiegel</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CD_PLAYER" url="https://services.mobile.de/refdata/classes/Car/features/CD_PLAYER">
+                        <resource:local-description xml-lang="de">CD-Spieler</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="MULTIFUNCTIONAL_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/MULTIFUNCTIONAL_WHEEL">
+                        <resource:local-description xml-lang="de">Multifunktionslenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ISOFIX" url="https://services.mobile.de/refdata/classes/Car/features/ISOFIX">
+                        <resource:local-description xml-lang="de">Isofix</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LIGHT_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/LIGHT_SENSOR">
+                        <resource:local-description xml-lang="de">Lichtsensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="FRONT_FOG_LIGHTS" url="https://services.mobile.de/refdata/classes/Car/features/FRONT_FOG_LIGHTS">
+                        <resource:local-description xml-lang="de">Nebelscheinwerfer</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="DAYTIME_RUNNING_LIGHTS" url="https://services.mobile.de/refdata/classes/Car/features/DAYTIME_RUNNING_LIGHTS">
+                        <resource:local-description xml-lang="de">Tagfahrlicht</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="START_STOP_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/START_STOP_SYSTEM">
+                        <resource:local-description xml-lang="de">Start/Stopp-Automatik</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ROOF_RAILS" url="https://services.mobile.de/refdata/classes/Car/features/ROOF_RAILS">
+                        <resource:local-description xml-lang="de">Dachreling</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="COLLISION_AVOIDANCE" url="https://services.mobile.de/refdata/classes/Car/features/COLLISION_AVOIDANCE">
+                        <resource:local-description xml-lang="de">Notbremsassistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ALARM_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/ALARM_SYSTEM">
+                        <resource:local-description xml-lang="de">Alarmanlage</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ARM_REST" url="https://services.mobile.de/refdata/classes/Car/features/ARM_REST">
+                        <resource:local-description xml-lang="de">Armlehne</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HILL_START_ASSIST" url="https://services.mobile.de/refdata/classes/Car/features/HILL_START_ASSIST">
+                        <resource:local-description xml-lang="de">Berganfahrassistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LEATHER_STEERING_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/LEATHER_STEERING_WHEEL">
+                        <resource:local-description xml-lang="de">Lederlenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TIRE_PRESSURE_MONITORING" url="https://services.mobile.de/refdata/classes/Car/features/TIRE_PRESSURE_MONITORING">
+                        <resource:local-description xml-lang="de">Reifendruckkontrolle</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="VOICE_CONTROL" url="https://services.mobile.de/refdata/classes/Car/features/VOICE_CONTROL">
+                        <resource:local-description xml-lang="de">Sprachsteuerung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="USB" url="https://services.mobile.de/refdata/classes/Car/features/USB">
+                        <resource:local-description xml-lang="de">USB</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PASSENGER_SEAT_ISOFIX_POINT" url="https://services.mobile.de/refdata/classes/Car/features/PASSENGER_SEAT_ISOFIX_POINT">
+                        <resource:local-description xml-lang="de">Isofix Beifahrersitz</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PARKING_SENSORS" url="https://services.mobile.de/refdata/classes/Car/features/PARKING_SENSORS">
+                        <resource:local-description xml-lang="de">Einparkhilfe</resource:local-description>
+                    </ad:feature>
+                </ad:features>
+                <ad:specifics>
+                    <ad:exterior-color key="BLACK" url="https://services.mobile.de/refdata/colors/BLACK">
+                        <resource:local-description xml-lang="de">Schwarz</resource:local-description>
+                    </ad:exterior-color>
+                    <ad:mileage value="44444"/>
+                    <ad:door-count key="FOUR_OR_FIVE" url="https://services.mobile.de/refdata/doorcounts/FOUR_OR_FIVE">
+                        <resource:local-description xml-lang="de">4/5</resource:local-description>
+                    </ad:door-count>
+                    <ad:first-registration value="2018-11"/>
+                    <ad:emission-class key="EURO6" url="https://services.mobile.de/refdata/emissionclasses/EURO6">
+                        <resource:local-description xml-lang="de">Euro6</resource:local-description>
+                    </ad:emission-class>
+                    <ad:emission-fuel-consumption envkv-compliant="false" co2-emission="152.00" combined="6.40" unit="LITER_PER_100_KM"/>
+                    <ad:fuel key="PETROL" url="https://services.mobile.de/refdata/fuels/PETROL">
+                        <resource:local-description xml-lang="de">Benzin</resource:local-description>
+                    </ad:fuel>
+                    <ad:power value="104"/>
+                    <ad:gearbox key="AUTOMATIC_GEAR" url="https://services.mobile.de/refdata/gearboxes/AUTOMATIC_GEAR">
+                        <resource:local-description xml-lang="de">Automatik</resource:local-description>
+                    </ad:gearbox>
+                    <ad:climatisation key="AUTOMATIC_CLIMATISATION" url="https://services.mobile.de/refdata/climatisations/AUTOMATIC_CLIMATISATION">
+                        <resource:local-description xml-lang="de">Klimaautomatik</resource:local-description>
+                    </ad:climatisation>
+                    <ad:num-seats value="5"/>
+                    <ad:construction-year value="2018"/>
+                    <ad:cubic-capacity value="1798"/>
+                    <ad:condition key="USED" url="https://services.mobile.de/refdata/conditions/USED">
+                        <resource:local-description xml-lang="de">Gebrauchtfahrzeug</resource:local-description>
+                    </ad:condition>
+                    <ad:airbag key="FRONT_AND_SIDE_AND_MORE_AIRBAGS" url="https://services.mobile.de/refdata/airbags/FRONT_AND_SIDE_AND_MORE_AIRBAGS">
+                        <resource:local-description xml-lang="de">Front-, Seiten- und weitere Airbags</resource:local-description>
+                    </ad:airbag>
+                    <ad:number-of-previous-owners>1</ad:number-of-previous-owners>
+                    <ad:parking-assistants>
+                        <ad:parking-assistant key="REAR_VIEW_CAM" url="https://services.mobile.de/refdata/parkingassistants/REAR_VIEW_CAM"/>
+                    </ad:parking-assistants>
+                    <ad:speed-control key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/speedcontrols/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:speed-control>
+                    <ad:daytime-running-lamps key="DAYTIME_RUNNING_LIGHTS" url="https://services.mobile.de/refdata/daytimerunninglamps/DAYTIME_RUNNING_LIGHTS">
+                        <resource:local-description xml-lang="de">Tagfahrlicht</resource:local-description>
+                    </ad:daytime-running-lamps>
+                </ad:specifics>
+            </ad:vehicle>
+            <ad:description></ad:description>
+            <ad:price currency="EUR" type="FIXED">
+                <ad:consumer-price-amount value="33333.00"/>
+                <ad:vatable value="false"/>
+            </ad:price>
+            <seller:seller key="521" url="https://services.mobile.de/search-api/seller/521">
+                <seller:type value="DEALER" commercial="true"/>
+                <seller:address>
+                    <seller:zipcode value="67294"/>
+                    <seller:city value="Rittersheim"/>
+                    <seller:country-code value="DE"/>
+                </seller:address>
+                <seller:coordinates>
+                    <seller:latitude>49.732059</seller:latitude>
+                    <seller:longitude>7.938037</seller:longitude>
+                </seller:coordinates>
+            </seller:seller>
+        </ad:ad>
+        <ad:ad key="1038537" url="https://services.mobile.de/search-api/ad/1038537">
+            <ad:creation-date value="2021-03-04T11:28:45+01:00"/>
+            <ad:modification-date value="2021-08-20T10:57:43+02:00"/>
+            <ad:detail-page url="https://suchen.mobile.de/auto-inserat/honda-civic-lim-5-type-r-sport-line-rittersheim/1038537.html?source=api"/>
+            <ad:vehicle>
+                <ad:class key="Car" url="https://services.mobile.de/refdata/classes/Car">
+                    <resource:local-description xml-lang="de">Pkw</resource:local-description>
+                </ad:class>
+                <ad:category key="Limousine" url="https://services.mobile.de/refdata/classes/Car/categories/Limousine">
+                    <resource:local-description xml-lang="de">Limousine</resource:local-description>
+                </ad:category>
+                <ad:make key="HONDA" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA">
+                    <resource:local-description xml-lang="de">HONDA</resource:local-description>
+                </ad:make>
+                <ad:model key="Civic" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA/models/Civic">
+                    <resource:local-description xml-lang="de">Civic</resource:local-description>
+                </ad:model>
+                <ad:model-description value="Civic Lim.5 Type R Sport Line"/>
+                <ad:damage-and-unrepaired value="false"/>
+                <ad:accident-damaged value="false"/>
+                <ad:roadworthy value="true"/>
+                <ad:features url="https://services.mobile.de/refdata/classes/Car/features">
+                    <ad:feature key="ALLOY_WHEELS" url="https://services.mobile.de/refdata/classes/Car/features/ALLOY_WHEELS">
+                        <resource:local-description xml-lang="de">Leichtmetallfelgen</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CENTRAL_LOCKING" url="https://services.mobile.de/refdata/classes/Car/features/CENTRAL_LOCKING">
+                        <resource:local-description xml-lang="de">Zentralverriegelung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_WINDOWS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_WINDOWS">
+                        <resource:local-description xml-lang="de">Elektr. Fensterheber</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="POWER_ASSISTED_STEERING" url="https://services.mobile.de/refdata/classes/Car/features/POWER_ASSISTED_STEERING">
+                        <resource:local-description xml-lang="de">Servolenkung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ABS" url="https://services.mobile.de/refdata/classes/Car/features/ABS">
+                        <resource:local-description xml-lang="de">ABS</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ESP" url="https://services.mobile.de/refdata/classes/Car/features/ESP">
+                        <resource:local-description xml-lang="de">ESP</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="NAVIGATION_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/NAVIGATION_SYSTEM">
+                        <resource:local-description xml-lang="de">Navigationssystem</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/classes/Car/features/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="AUTOMATIC_RAIN_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/AUTOMATIC_RAIN_SENSOR">
+                        <resource:local-description xml-lang="de">Regensensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="SPORT_SEATS" url="https://services.mobile.de/refdata/classes/Car/features/SPORT_SEATS">
+                        <resource:local-description xml-lang="de">Sportsitze</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_EXTERIOR_MIRRORS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_EXTERIOR_MIRRORS">
+                        <resource:local-description xml-lang="de">Elektr. Seitenspiegel</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ON_BOARD_COMPUTER" url="https://services.mobile.de/refdata/classes/Car/features/ON_BOARD_COMPUTER">
+                        <resource:local-description xml-lang="de">Bordcomputer</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HANDS_FREE_PHONE_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/HANDS_FREE_PHONE_SYSTEM">
+                        <resource:local-description xml-lang="de">Freisprecheinrichtung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="MULTIFUNCTIONAL_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/MULTIFUNCTIONAL_WHEEL">
+                        <resource:local-description xml-lang="de">Multifunktionslenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ISOFIX" url="https://services.mobile.de/refdata/classes/Car/features/ISOFIX">
+                        <resource:local-description xml-lang="de">Isofix</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LIGHT_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/LIGHT_SENSOR">
+                        <resource:local-description xml-lang="de">Lichtsensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="FRONT_FOG_LIGHTS" url="https://services.mobile.de/refdata/classes/Car/features/FRONT_FOG_LIGHTS">
+                        <resource:local-description xml-lang="de">Nebelscheinwerfer</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="DAYTIME_RUNNING_LIGHTS" url="https://services.mobile.de/refdata/classes/Car/features/DAYTIME_RUNNING_LIGHTS">
+                        <resource:local-description xml-lang="de">Tagfahrlicht</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="START_STOP_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/START_STOP_SYSTEM">
+                        <resource:local-description xml-lang="de">Start/Stopp-Automatik</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LANE_DEPARTURE_WARNING" url="https://services.mobile.de/refdata/classes/Car/features/LANE_DEPARTURE_WARNING">
+                        <resource:local-description xml-lang="de">Spurhalteassistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="COLLISION_AVOIDANCE" url="https://services.mobile.de/refdata/classes/Car/features/COLLISION_AVOIDANCE">
+                        <resource:local-description xml-lang="de">Notbremsassistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="KEYLESS_ENTRY" url="https://services.mobile.de/refdata/classes/Car/features/KEYLESS_ENTRY">
+                        <resource:local-description xml-lang="de">Schlüssellose Zentralverriegelung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="BLIND_SPOT_MONITOR" url="https://services.mobile.de/refdata/classes/Car/features/BLIND_SPOT_MONITOR">
+                        <resource:local-description xml-lang="de">Totwinkel-Assistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ALARM_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/ALARM_SYSTEM">
+                        <resource:local-description xml-lang="de">Alarmanlage</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ARM_REST" url="https://services.mobile.de/refdata/classes/Car/features/ARM_REST">
+                        <resource:local-description xml-lang="de">Armlehne</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HILL_START_ASSIST" url="https://services.mobile.de/refdata/classes/Car/features/HILL_START_ASSIST">
+                        <resource:local-description xml-lang="de">Berganfahrassistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TIRE_PRESSURE_MONITORING" url="https://services.mobile.de/refdata/classes/Car/features/TIRE_PRESSURE_MONITORING">
+                        <resource:local-description xml-lang="de">Reifendruckkontrolle</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TRAFFIC_SIGN_RECOGNITION" url="https://services.mobile.de/refdata/classes/Car/features/TRAFFIC_SIGN_RECOGNITION">
+                        <resource:local-description xml-lang="de">Verkehrszeichenerkennung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HIGH_BEAM_ASSIST" url="https://services.mobile.de/refdata/classes/Car/features/HIGH_BEAM_ASSIST">
+                        <resource:local-description xml-lang="de">Fernlichtassistent</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PASSENGER_SEAT_ISOFIX_POINT" url="https://services.mobile.de/refdata/classes/Car/features/PASSENGER_SEAT_ISOFIX_POINT">
+                        <resource:local-description xml-lang="de">Isofix Beifahrersitz</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PARKING_SENSORS" url="https://services.mobile.de/refdata/classes/Car/features/PARKING_SENSORS">
+                        <resource:local-description xml-lang="de">Einparkhilfe</resource:local-description>
+                    </ad:feature>
+                </ad:features>
+                <ad:specifics>
+                    <ad:exterior-color key="BLACK" url="https://services.mobile.de/refdata/colors/BLACK">
+                        <resource:local-description xml-lang="de">Schwarz</resource:local-description>
+                    </ad:exterior-color>
+                    <ad:mileage value="33333"/>
+                    <ad:door-count key="FOUR_OR_FIVE" url="https://services.mobile.de/refdata/doorcounts/FOUR_OR_FIVE">
+                        <resource:local-description xml-lang="de">4/5</resource:local-description>
+                    </ad:door-count>
+                    <ad:first-registration value="2020-03"/>
+                    <ad:emission-class key="EURO6D_TEMP" url="https://services.mobile.de/refdata/emissionclasses/EURO6D_TEMP">
+                        <resource:local-description xml-lang="de">Euro6d-TEMP</resource:local-description>
+                    </ad:emission-class>
+                    <ad:emission-fuel-consumption envkv-compliant="false" energy-efficiency-class="E" co2-emission="173.00" inner="9.40" outer="6.50" combined="7.60" unit="LITER_PER_100_KM"/>
+                    <ad:fuel key="PETROL" url="https://services.mobile.de/refdata/fuels/PETROL">
+                        <resource:local-description xml-lang="de">Benzin</resource:local-description>
+                    </ad:fuel>
+                    <ad:power value="235"/>
+                    <ad:gearbox key="MANUAL_GEAR" url="https://services.mobile.de/refdata/gearboxes/MANUAL_GEAR">
+                        <resource:local-description xml-lang="de">Schaltgetriebe</resource:local-description>
+                    </ad:gearbox>
+                    <ad:climatisation key="AUTOMATIC_CLIMATISATION" url="https://services.mobile.de/refdata/climatisations/AUTOMATIC_CLIMATISATION">
+                        <resource:local-description xml-lang="de">Klimaautomatik</resource:local-description>
+                    </ad:climatisation>
+                    <ad:num-seats value="4"/>
+                    <ad:construction-year value="2020"/>
+                    <ad:cubic-capacity value="1996"/>
+                    <ad:condition key="USED" url="https://services.mobile.de/refdata/conditions/USED">
+                        <resource:local-description xml-lang="de">Gebrauchtfahrzeug</resource:local-description>
+                    </ad:condition>
+                    <ad:airbag key="FRONT_AND_SIDE_AND_MORE_AIRBAGS" url="https://services.mobile.de/refdata/airbags/FRONT_AND_SIDE_AND_MORE_AIRBAGS">
+                        <resource:local-description xml-lang="de">Front-, Seiten- und weitere Airbags</resource:local-description>
+                    </ad:airbag>
+                    <ad:number-of-previous-owners>1</ad:number-of-previous-owners>
+                    <ad:parking-assistants>
+                        <ad:parking-assistant key="FRONT_SENSORS" url="https://services.mobile.de/refdata/parkingassistants/FRONT_SENSORS"/>
+                        <ad:parking-assistant key="REAR_SENSORS" url="https://services.mobile.de/refdata/parkingassistants/REAR_SENSORS"/>
+                        <ad:parking-assistant key="REAR_VIEW_CAM" url="https://services.mobile.de/refdata/parkingassistants/REAR_VIEW_CAM"/>
+                    </ad:parking-assistants>
+                    <ad:speed-control key="ADAPTIVE_CRUISE_CONTROL" url="https://services.mobile.de/refdata/speedcontrols/ADAPTIVE_CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Abstandstempomat</resource:local-description>
+                    </ad:speed-control>
+                    <ad:daytime-running-lamps key="DAYTIME_RUNNING_LIGHTS" url="https://services.mobile.de/refdata/daytimerunninglamps/DAYTIME_RUNNING_LIGHTS">
+                        <resource:local-description xml-lang="de">Tagfahrlicht</resource:local-description>
+                    </ad:daytime-running-lamps>
+                    <ad:headlight-type key="LED_HEADLIGHTS" url="https://services.mobile.de/refdata/headlightstypes/LED_HEADLIGHTS">
+                        <resource:local-description xml-lang="de">LED-Scheinwerfer</resource:local-description>
+                    </ad:headlight-type>
+                </ad:specifics>
+            </ad:vehicle>
+            <ad:description></ad:description>
+            <ad:price currency="EUR" type="FIXED">
+                <ad:consumer-price-amount value="44444.00"/>
+                <ad:vatable value="true"/>
+                <ad:vat-rate value="0.1900"/>
+            </ad:price>
+            <seller:seller key="521" url="https://services.mobile.de/search-api/seller/521">
+                <seller:type value="DEALER" commercial="true"/>
+                <seller:address>
+                    <seller:zipcode value="67294"/>
+                    <seller:city value="Rittersheim"/>
+                    <seller:country-code value="DE"/>
+                </seller:address>
+                <seller:coordinates>
+                    <seller:latitude>49.732059</seller:latitude>
+                    <seller:longitude>7.938037</seller:longitude>
+                </seller:coordinates>
+            </seller:seller>
+        </ad:ad>
+        <ad:ad key="1042107" url="https://services.mobile.de/search-api/ad/1042107">
+            <ad:creation-date value="2021-05-27T10:06:21+02:00"/>
+            <ad:modification-date value="2021-08-20T10:55:27+02:00"/>
+            <ad:detail-page url="https://suchen.mobile.de/auto-inserat/honda-civic-sedan-5-1-8-edition-50-jahre-rittersheim/1042107.html?source=api"/>
+            <ad:vehicle>
+                <ad:class key="Car" url="https://services.mobile.de/refdata/classes/Car">
+                    <resource:local-description xml-lang="de">Pkw</resource:local-description>
+                </ad:class>
+                <ad:category key="Limousine" url="https://services.mobile.de/refdata/classes/Car/categories/Limousine">
+                    <resource:local-description xml-lang="de">Limousine</resource:local-description>
+                </ad:category>
+                <ad:make key="HONDA" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA">
+                    <resource:local-description xml-lang="de">HONDA</resource:local-description>
+                </ad:make>
+                <ad:model key="Civic" url="https://services.mobile.de/refdata/classes/Car/makes/HONDA/models/Civic">
+                    <resource:local-description xml-lang="de">Civic</resource:local-description>
+                </ad:model>
+                <ad:model-description value="Civic Sedan 5 1.8 Edition 50 Jahre"/>
+                <ad:damage-and-unrepaired value="false"/>
+                <ad:roadworthy value="true"/>
+                <ad:features url="https://services.mobile.de/refdata/classes/Car/features">
+                    <ad:feature key="ALLOY_WHEELS" url="https://services.mobile.de/refdata/classes/Car/features/ALLOY_WHEELS">
+                        <resource:local-description xml-lang="de">Leichtmetallfelgen</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CENTRAL_LOCKING" url="https://services.mobile.de/refdata/classes/Car/features/CENTRAL_LOCKING">
+                        <resource:local-description xml-lang="de">Zentralverriegelung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_WINDOWS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_WINDOWS">
+                        <resource:local-description xml-lang="de">Elektr. Fensterheber</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="POWER_ASSISTED_STEERING" url="https://services.mobile.de/refdata/classes/Car/features/POWER_ASSISTED_STEERING">
+                        <resource:local-description xml-lang="de">Servolenkung</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ABS" url="https://services.mobile.de/refdata/classes/Car/features/ABS">
+                        <resource:local-description xml-lang="de">ABS</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ESP" url="https://services.mobile.de/refdata/classes/Car/features/ESP">
+                        <resource:local-description xml-lang="de">ESP</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="FULL_SERVICE_HISTORY" url="https://services.mobile.de/refdata/classes/Car/features/FULL_SERVICE_HISTORY">
+                        <resource:local-description xml-lang="de">Scheckheftgepflegt</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/classes/Car/features/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="HU_AU_NEU" url="https://services.mobile.de/refdata/classes/Car/features/HU_AU_NEU">
+                        <resource:local-description xml-lang="de">HU neu</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="AUTOMATIC_RAIN_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/AUTOMATIC_RAIN_SENSOR">
+                        <resource:local-description xml-lang="de">Regensensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ELECTRIC_EXTERIOR_MIRRORS" url="https://services.mobile.de/refdata/classes/Car/features/ELECTRIC_EXTERIOR_MIRRORS">
+                        <resource:local-description xml-lang="de">Elektr. Seitenspiegel</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="CD_PLAYER" url="https://services.mobile.de/refdata/classes/Car/features/CD_PLAYER">
+                        <resource:local-description xml-lang="de">CD-Spieler</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="MULTIFUNCTIONAL_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/MULTIFUNCTIONAL_WHEEL">
+                        <resource:local-description xml-lang="de">Multifunktionslenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ISOFIX" url="https://services.mobile.de/refdata/classes/Car/features/ISOFIX">
+                        <resource:local-description xml-lang="de">Isofix</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LIGHT_SENSOR" url="https://services.mobile.de/refdata/classes/Car/features/LIGHT_SENSOR">
+                        <resource:local-description xml-lang="de">Lichtsensor</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="FRONT_FOG_LIGHTS" url="https://services.mobile.de/refdata/classes/Car/features/FRONT_FOG_LIGHTS">
+                        <resource:local-description xml-lang="de">Nebelscheinwerfer</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ALARM_SYSTEM" url="https://services.mobile.de/refdata/classes/Car/features/ALARM_SYSTEM">
+                        <resource:local-description xml-lang="de">Alarmanlage</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="ARM_REST" url="https://services.mobile.de/refdata/classes/Car/features/ARM_REST">
+                        <resource:local-description xml-lang="de">Armlehne</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="LEATHER_STEERING_WHEEL" url="https://services.mobile.de/refdata/classes/Car/features/LEATHER_STEERING_WHEEL">
+                        <resource:local-description xml-lang="de">Lederlenkrad</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="TIRE_PRESSURE_MONITORING" url="https://services.mobile.de/refdata/classes/Car/features/TIRE_PRESSURE_MONITORING">
+                        <resource:local-description xml-lang="de">Reifendruckkontrolle</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PASSENGER_SEAT_ISOFIX_POINT" url="https://services.mobile.de/refdata/classes/Car/features/PASSENGER_SEAT_ISOFIX_POINT">
+                        <resource:local-description xml-lang="de">Isofix Beifahrersitz</resource:local-description>
+                    </ad:feature>
+                    <ad:feature key="PARKING_SENSORS" url="https://services.mobile.de/refdata/classes/Car/features/PARKING_SENSORS">
+                        <resource:local-description xml-lang="de">Einparkhilfe</resource:local-description>
+                    </ad:feature>
+                </ad:features>
+                <ad:specifics>
+                    <ad:mileage value="25600"/>
+                    <ad:door-count key="FOUR_OR_FIVE" url="https://services.mobile.de/refdata/doorcounts/FOUR_OR_FIVE">
+                        <resource:local-description xml-lang="de">4/5</resource:local-description>
+                    </ad:door-count>
+                    <ad:first-registration value="2010-02"/>
+                    <ad:emission-class key="EURO5" url="https://services.mobile.de/refdata/emissionclasses/EURO5">
+                        <resource:local-description xml-lang="de">Euro5</resource:local-description>
+                    </ad:emission-class>
+                    <ad:emission-fuel-consumption envkv-compliant="false" co2-emission="156.00" inner="8.80" outer="5.50" combined="6.70" unit="LITER_PER_100_KM"/>
+                    <ad:fuel key="PETROL" url="https://services.mobile.de/refdata/fuels/PETROL">
+                        <resource:local-description xml-lang="de">Benzin</resource:local-description>
+                    </ad:fuel>
+                    <ad:power value="103"/>
+                    <ad:gearbox key="MANUAL_GEAR" url="https://services.mobile.de/refdata/gearboxes/MANUAL_GEAR">
+                        <resource:local-description xml-lang="de">Schaltgetriebe</resource:local-description>
+                    </ad:gearbox>
+                    <ad:climatisation key="AUTOMATIC_CLIMATISATION" url="https://services.mobile.de/refdata/climatisations/AUTOMATIC_CLIMATISATION">
+                        <resource:local-description xml-lang="de">Klimaautomatik</resource:local-description>
+                    </ad:climatisation>
+                    <ad:num-seats value="5"/>
+                    <ad:construction-year value="2010"/>
+                    <ad:cubic-capacity value="1799"/>
+                    <ad:condition key="USED" url="https://services.mobile.de/refdata/conditions/USED">
+                        <resource:local-description xml-lang="de">Gebrauchtfahrzeug</resource:local-description>
+                    </ad:condition>
+                    <ad:airbag key="FRONT_AND_SIDE_AND_MORE_AIRBAGS" url="https://services.mobile.de/refdata/airbags/FRONT_AND_SIDE_AND_MORE_AIRBAGS">
+                        <resource:local-description xml-lang="de">Front-, Seiten- und weitere Airbags</resource:local-description>
+                    </ad:airbag>
+                    <ad:number-of-previous-owners>1</ad:number-of-previous-owners>
+                    <ad:parking-assistants>
+                        <ad:parking-assistant key="REAR_SENSORS" url="https://services.mobile.de/refdata/parkingassistants/REAR_SENSORS"/>
+                    </ad:parking-assistants>
+                    <ad:speed-control key="CRUISE_CONTROL" url="https://services.mobile.de/refdata/speedcontrols/CRUISE_CONTROL">
+                        <resource:local-description xml-lang="de">Tempomat</resource:local-description>
+                    </ad:speed-control>
+                </ad:specifics>
+            </ad:vehicle>
+            <ad:description></ad:description>
+            <ad:images count="1" gallery-url="https://i.sandbox.ebayimg.com/00/s/NzE2WDEyODA=/z/s60AAOSwoZRgq0sC/$_23.JPG" url="https://services.mobile.de/search-api/ad/1042107/images">
+                <ad:image>
+                    <ad:representation size="S" url="https://i.sandbox.ebayimg.com/00/s/NzE2WDEyODA=/z/s60AAOSwoZRgq0sC/$_18.JPG"/>
+                    <ad:representation size="XL" url="https://i.sandbox.ebayimg.com/00/s/NzE2WDEyODA=/z/s60AAOSwoZRgq0sC/$_27.JPG"/>
+                    <ad:representation size="ICON" url="https://i.sandbox.ebayimg.com/00/s/NzE2WDEyODA=/z/s60AAOSwoZRgq0sC/$_23.JPG"/>
+                    <ad:representation size="L" url="https://i.sandbox.ebayimg.com/00/s/NzE2WDEyODA=/z/s60AAOSwoZRgq0sC/$_1.JPG"/>
+                    <ad:representation size="M" url="https://i.sandbox.ebayimg.com/00/s/NzE2WDEyODA=/z/s60AAOSwoZRgq0sC/$_24.JPG"/>
+                </ad:image>
+            </ad:images>
+            <ad:price currency="EUR" type="FIXED">
+                <ad:consumer-price-amount value="25600.00"/>
+                <ad:vatable value="false"/>
+            </ad:price>
+            <seller:seller key="521" url="https://services.mobile.de/search-api/seller/521">
+                <seller:type value="DEALER" commercial="true"/>
+                <seller:address>
+                    <seller:zipcode value="67294"/>
+                    <seller:city value="Rittersheim"/>
+                    <seller:country-code value="DE"/>
+                </seller:address>
+                <seller:coordinates>
+                    <seller:latitude>49.732059</seller:latitude>
+                    <seller:longitude>7.938037</seller:longitude>
+                </seller:coordinates>
+            </seller:seller>
+        </ad:ad>
+    </search:ads>
+</search:search-result>
